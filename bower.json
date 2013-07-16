@@ -1,5 +1,5 @@
 {
-  "name": "darlingjs-sound-module",
+  "name": "darlingjs-sound",
   "version": "0.7.0",
   "main": [
     "./particleSystem.js"
