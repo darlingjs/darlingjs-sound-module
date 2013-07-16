@@ -1,0 +1,23 @@
+{
+  "name": "darlingjs-sound-module",
+  "version": "0.7.0",
+  "main": [
+    "./particleSystem.js"
+  ],
+  "description": "darlingjs sound module",
+  "keywords": [
+    "howler",
+    "sound",
+    "darlingjs"
+  ],
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:darlingjs/darlingjs-sound-module.git"
+  }
+}
